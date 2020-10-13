@@ -1,0 +1,24 @@
+header{
+    background-color: aquamarine;
+}
+nav{
+    background-color: blueviolet;
+}
+div{
+    overflow: hidden;
+}
+article{
+    background-color: brown;
+    height: 300px;
+    width: 50%;
+    float: left;
+}
+aside{
+    background-color: rgb(82, 66, 1);
+    height: 300px;
+    width: 50%;
+    float: right;
+}
+footer{
+    background-color: darkgreen;
+}
